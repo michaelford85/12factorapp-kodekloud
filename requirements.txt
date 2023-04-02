@@ -7,7 +7,7 @@
 #distlib==0.3.6
 #distro==1.5.0
 #filelock==3.10.7
-Flask==2.2.3
+flask==2.2.3
 #gpg==1.15.1
 #idna==2.10
 #importlib-metadata==6.1.0
