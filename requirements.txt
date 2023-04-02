@@ -4,7 +4,6 @@ decorator==4.2.1
 distlib==0.3.6
 filelock==3.4.1
 Flask==2.0.3
-gpg==1.13.1
 importlib-metadata==4.8.3
 importlib-resources==5.4.0
 itsdangerous==2.0.1
