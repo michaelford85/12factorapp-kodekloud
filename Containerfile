@@ -6,7 +6,7 @@ COPY requirements.txt requirements.txt
 
 RUN dnf install python39 -y
 
-RUN dnf install python39-pip -y
+RUN dnf install python3-pip -y
 
 RUN pip install --upgrade pip
 
