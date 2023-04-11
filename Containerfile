@@ -1,4 +1,4 @@
-FROM python:3.10-alpine
+FROM rockylinux:9.1
 
 WORKDIR /app
 
